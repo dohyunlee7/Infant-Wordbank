@@ -1,0 +1,146 @@
+language,age,measure,uni_lemma,words,prop
+German,18,produces,hippopotamus,Nilpferd,0.023529411764705882
+German,19,produces,hippopotamus,Nilpferd,0.0379746835443038
+German,20,produces,hippopotamus,Nilpferd,0.052083333333333336
+German,21,produces,hippopotamus,Nilpferd,0.1038961038961039
+German,22,produces,hippopotamus,Nilpferd,0.07368421052631578
+German,23,produces,hippopotamus,Nilpferd,0.2631578947368421
+German,24,produces,hippopotamus,Nilpferd,0.2524271844660194
+German,25,produces,hippopotamus,Nilpferd,0.37894736842105264
+German,26,produces,hippopotamus,Nilpferd,0.33695652173913043
+German,27,produces,hippopotamus,Nilpferd,0.3595505617977528
+German,28,produces,hippopotamus,Nilpferd,0.3978494623655914
+German,29,produces,hippopotamus,Nilpferd,0.5393258426966292
+German,30,produces,hippopotamus,Nilpferd,0.5806451612903226
+Hebrew,25,produces,hippopotamus,היפופוטם,0.6097560975609756
+Hebrew,26,produces,hippopotamus,היפופוטם,0.6923076923076923
+Hebrew,27,produces,hippopotamus,היפופוטם,0.5735294117647058
+Hebrew,28,produces,hippopotamus,היפופוטם,0.7678571428571429
+Hebrew,29,produces,hippopotamus,היפופוטם,0.8260869565217391
+Hebrew,30,produces,hippopotamus,היפופוטם,0.7407407407407407
+Hebrew,31,produces,hippopotamus,היפופוטם,0.84375
+Hebrew,32,produces,hippopotamus,היפופוטם,0.8064516129032258
+Hebrew,33,produces,hippopotamus,היפופוטם,0.7619047619047619
+Hebrew,34,produces,hippopotamus,היפופוטם,0.8636363636363636
+Hebrew,35,produces,hippopotamus,היפופוטם,0.75
+Italian,7,produces,hippopotamus,ippopotamo,0
+Italian,8,produces,hippopotamus,ippopotamo,0
+Italian,9,produces,hippopotamus,ippopotamo,0
+Italian,10,produces,hippopotamus,ippopotamo,0.018867924528301886
+Italian,11,produces,hippopotamus,ippopotamo,0
+Italian,12,produces,hippopotamus,ippopotamo,0.014492753623188406
+Italian,13,produces,hippopotamus,ippopotamo,0
+Italian,14,produces,hippopotamus,ippopotamo,0
+Italian,15,produces,hippopotamus,ippopotamo,0.014705882352941176
+Italian,16,produces,hippopotamus,ippopotamo,0.017857142857142856
+Italian,17,produces,hippopotamus,ippopotamo,0.0625
+Italian,18,produces,hippopotamus,ippopotamo,0.05333333333333334
+Italian,19,produces,hippopotamus,ippopotamo,0.05172413793103448
+Italian,20,produces,hippopotamus,ippopotamo,0.0963855421686747
+Italian,21,produces,hippopotamus,ippopotamo,0.11940298507462686
+Italian,22,produces,hippopotamus,ippopotamo,0.24675324675324675
+Italian,23,produces,hippopotamus,ippopotamo,0.21428571428571427
+Italian,24,produces,hippopotamus,ippopotamo,0.3058823529411765
+Italian,25,produces,hippopotamus,ippopotamo,0.48717948717948717
+Italian,26,produces,hippopotamus,ippopotamo,0.4634146341463415
+Italian,27,produces,hippopotamus,ippopotamo,0.46511627906976744
+Italian,28,produces,hippopotamus,ippopotamo,0.5909090909090909
+Italian,29,produces,hippopotamus,ippopotamo,0.4594594594594595
+Italian,30,produces,hippopotamus,ippopotamo,0.6268656716417911
+Italian,31,produces,hippopotamus,ippopotamo,0.6842105263157895
+Italian,32,produces,hippopotamus,ippopotamo,0.6086956521739131
+Italian,33,produces,hippopotamus,ippopotamo,0.5625
+Italian,34,produces,hippopotamus,ippopotamo,0.8421052631578947
+Italian,35,produces,hippopotamus,ippopotamo,0.6
+Italian,36,produces,hippopotamus,ippopotamo,0.6666666666666666
+Korean,8,produces,hippopotamus,하마,0
+Korean,9,produces,hippopotamus,하마,0
+Korean,10,produces,hippopotamus,하마,0
+Korean,11,produces,hippopotamus,하마,0
+Korean,12,produces,hippopotamus,하마,0.016666666666666666
+Korean,13,produces,hippopotamus,하마,0.014285714285714285
+Korean,14,produces,hippopotamus,하마,0
+Korean,15,produces,hippopotamus,하마,0.03225806451612903
+Korean,16,produces,hippopotamus,하마,0.047619047619047616
+Korean,17,produces,hippopotamus,하마,0.15254237288135594
+Korean,18,produces,hippopotamus,하마,0.23076923076923078
+Korean,19,produces,hippopotamus,하마,0.15873015873015872
+Korean,20,produces,hippopotamus,하마,0.1935483870967742
+Korean,21,produces,hippopotamus,하마,0.23728813559322035
+Korean,22,produces,hippopotamus,하마,0.4264705882352941
+Korean,23,produces,hippopotamus,하마,0.373134328358209
+Korean,24,produces,hippopotamus,하마,0.56
+Korean,25,produces,hippopotamus,하마,0.6111111111111112
+Korean,26,produces,hippopotamus,하마,0.609375
+Korean,27,produces,hippopotamus,하마,0.6875
+Korean,28,produces,hippopotamus,하마,0.8
+Korean,29,produces,hippopotamus,하마,0.821917808219178
+Korean,30,produces,hippopotamus,하마,0.7846153846153846
+Korean,31,produces,hippopotamus,하마,0.7647058823529411
+Korean,32,produces,hippopotamus,하마,0.8253968253968254
+Korean,33,produces,hippopotamus,하마,0.7808219178082192
+Korean,34,produces,hippopotamus,하마,0.8428571428571429
+Korean,35,produces,hippopotamus,하마,0.8870967741935484
+Korean,36,produces,hippopotamus,하마,0.927536231884058
+Russian,18,produces,hippopotamus,бегемот,0.047619047619047616
+Russian,19,produces,hippopotamus,бегемот,0.12195121951219512
+Russian,20,produces,hippopotamus,бегемот,0.2222222222222222
+Russian,21,produces,hippopotamus,бегемот,0.32558139534883723
+Russian,22,produces,hippopotamus,бегемот,0.3333333333333333
+Russian,23,produces,hippopotamus,бегемот,0.32142857142857145
+Russian,24,produces,hippopotamus,бегемот,0.4098360655737705
+Russian,25,produces,hippopotamus,бегемот,0.4696969696969697
+Russian,26,produces,hippopotamus,бегемот,0.5576923076923077
+Russian,27,produces,hippopotamus,бегемот,0.5
+Russian,28,produces,hippopotamus,бегемот,0.6333333333333333
+Russian,29,produces,hippopotamus,бегемот,0.7758620689655172
+Russian,30,produces,hippopotamus,бегемот,0.6363636363636364
+Russian,31,produces,hippopotamus,бегемот,0.7049180327868853
+Russian,32,produces,hippopotamus,бегемот,0.7636363636363637
+Russian,33,produces,hippopotamus,бегемот,0.7090909090909091
+Russian,34,produces,hippopotamus,бегемот,0.7586206896551724
+Russian,35,produces,hippopotamus,бегемот,0.7659574468085106
+Russian,36,produces,hippopotamus,бегемот,0.8775510204081632
+Slovak,17,produces,hippopotamus,hroch,0.14285714285714285
+Slovak,18,produces,hippopotamus,hroch,0.15384615384615385
+Slovak,19,produces,hippopotamus,hroch,0.21428571428571427
+Slovak,20,produces,hippopotamus,hroch,0.3548387096774194
+Slovak,21,produces,hippopotamus,hroch,0.2716049382716049
+Slovak,22,produces,hippopotamus,hroch,0.32075471698113206
+Slovak,23,produces,hippopotamus,hroch,0.3728813559322034
+Slovak,24,produces,hippopotamus,hroch,0.5254237288135594
+Slovak,25,produces,hippopotamus,hroch,0.43478260869565216
+Slovak,26,produces,hippopotamus,hroch,0.6410256410256411
+Slovak,27,produces,hippopotamus,hroch,0.6451612903225806
+Slovak,28,produces,hippopotamus,hroch,0.5697674418604651
+Slovak,29,produces,hippopotamus,hroch,0.6
+Slovak,30,produces,hippopotamus,hroch,0.5714285714285714
+Slovak,31,produces,hippopotamus,hroch,0.5517241379310345
+Slovak,32,produces,hippopotamus,hroch,0.52
+Slovak,33,produces,hippopotamus,hroch,0.5454545454545454
+Slovak,34,produces,hippopotamus,hroch,0.5925925925925926
+Slovak,35,produces,hippopotamus,hroch,0.7407407407407407
+Slovak,36,produces,hippopotamus,hroch,0.75
+Spanish (Mexican),8,produces,hippopotamus,hipopótamo,0.025
+Spanish (Mexican),9,produces,hippopotamus,hipopótamo,0
+Spanish (Mexican),10,produces,hippopotamus,hipopótamo,0
+Spanish (Mexican),11,produces,hippopotamus,hipopótamo,0
+Spanish (Mexican),12,produces,hippopotamus,hipopótamo,0
+Spanish (Mexican),13,produces,hippopotamus,hipopótamo,0.012048192771084338
+Spanish (Mexican),14,produces,hippopotamus,hipopótamo,0
+Spanish (Mexican),15,produces,hippopotamus,hipopótamo,0
+Spanish (Mexican),16,produces,hippopotamus,hipopótamo,0.06535947712418301
+Spanish (Mexican),17,produces,hippopotamus,hipopótamo,0.06504065040650407
+Spanish (Mexican),18,produces,hippopotamus,hipopótamo,0.07947019867549669
+Spanish (Mexican),19,produces,hippopotamus,hipopótamo,0.14634146341463414
+Spanish (Mexican),20,produces,hippopotamus,hipopótamo,0.12121212121212122
+Spanish (Mexican),21,produces,hippopotamus,hipopótamo,0.10588235294117647
+Spanish (Mexican),22,produces,hippopotamus,hipopótamo,0.1206896551724138
+Spanish (Mexican),23,produces,hippopotamus,hipopótamo,0.10227272727272728
+Spanish (Mexican),24,produces,hippopotamus,hipopótamo,0.2717391304347826
+Spanish (Mexican),25,produces,hippopotamus,hipopótamo,0.2558139534883721
+Spanish (Mexican),26,produces,hippopotamus,hipopótamo,0.24324324324324326
+Spanish (Mexican),27,produces,hippopotamus,hipopótamo,0.2222222222222222
+Spanish (Mexican),28,produces,hippopotamus,hipopótamo,0.3048780487804878
+Spanish (Mexican),29,produces,hippopotamus,hipopótamo,0.29333333333333333
+Spanish (Mexican),30,produces,hippopotamus,hipopótamo,0.3230769230769231

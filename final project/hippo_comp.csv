@@ -1,0 +1,146 @@
+language,age,measure,uni_lemma,words,prop
+German,18,understands,hippopotamus,Nilpferd,0.023529411764705882
+German,19,understands,hippopotamus,Nilpferd,0.0379746835443038
+German,20,understands,hippopotamus,Nilpferd,0.052083333333333336
+German,21,understands,hippopotamus,Nilpferd,0.1038961038961039
+German,22,understands,hippopotamus,Nilpferd,0.07368421052631578
+German,23,understands,hippopotamus,Nilpferd,0.2631578947368421
+German,24,understands,hippopotamus,Nilpferd,0.2524271844660194
+German,25,understands,hippopotamus,Nilpferd,0.37894736842105264
+German,26,understands,hippopotamus,Nilpferd,0.33695652173913043
+German,27,understands,hippopotamus,Nilpferd,0.3595505617977528
+German,28,understands,hippopotamus,Nilpferd,0.3978494623655914
+German,29,understands,hippopotamus,Nilpferd,0.5393258426966292
+German,30,understands,hippopotamus,Nilpferd,0.5806451612903226
+Hebrew,25,understands,hippopotamus,היפופוטם,0.8414634146341463
+Hebrew,26,understands,hippopotamus,היפופוטם,0.8461538461538461
+Hebrew,27,understands,hippopotamus,היפופוטם,0.8088235294117647
+Hebrew,28,understands,hippopotamus,היפופוטם,0.9107142857142857
+Hebrew,29,understands,hippopotamus,היפופוטם,0.8913043478260869
+Hebrew,30,understands,hippopotamus,היפופוטם,0.9629629629629629
+Hebrew,31,understands,hippopotamus,היפופוטם,0.9375
+Hebrew,32,understands,hippopotamus,היפופוטם,0.967741935483871
+Hebrew,33,understands,hippopotamus,היפופוטם,0.8095238095238095
+Hebrew,34,understands,hippopotamus,היפופוטם,0.9090909090909091
+Hebrew,35,understands,hippopotamus,היפופוטם,0.8125
+Italian,7,understands,hippopotamus,ippopotamo,0
+Italian,8,understands,hippopotamus,ippopotamo,0
+Italian,9,understands,hippopotamus,ippopotamo,0.02631578947368421
+Italian,10,understands,hippopotamus,ippopotamo,0.03773584905660377
+Italian,11,understands,hippopotamus,ippopotamo,0.023809523809523808
+Italian,12,understands,hippopotamus,ippopotamo,0.028985507246376812
+Italian,13,understands,hippopotamus,ippopotamo,0.08333333333333333
+Italian,14,understands,hippopotamus,ippopotamo,0.075
+Italian,15,understands,hippopotamus,ippopotamo,0.07352941176470588
+Italian,16,understands,hippopotamus,ippopotamo,0.125
+Italian,17,understands,hippopotamus,ippopotamo,0.14583333333333334
+Italian,18,understands,hippopotamus,ippopotamo,0.14666666666666667
+Italian,19,understands,hippopotamus,ippopotamo,0.06896551724137931
+Italian,20,understands,hippopotamus,ippopotamo,0.14457831325301204
+Italian,21,understands,hippopotamus,ippopotamo,0.13432835820895522
+Italian,22,understands,hippopotamus,ippopotamo,0.2987012987012987
+Italian,23,understands,hippopotamus,ippopotamo,0.24285714285714285
+Italian,24,understands,hippopotamus,ippopotamo,0.36470588235294116
+Italian,25,understands,hippopotamus,ippopotamo,0.48717948717948717
+Italian,26,understands,hippopotamus,ippopotamo,0.4634146341463415
+Italian,27,understands,hippopotamus,ippopotamo,0.46511627906976744
+Italian,28,understands,hippopotamus,ippopotamo,0.5909090909090909
+Italian,29,understands,hippopotamus,ippopotamo,0.4594594594594595
+Italian,30,understands,hippopotamus,ippopotamo,0.6268656716417911
+Italian,31,understands,hippopotamus,ippopotamo,0.6842105263157895
+Italian,32,understands,hippopotamus,ippopotamo,0.6086956521739131
+Italian,33,understands,hippopotamus,ippopotamo,0.5625
+Italian,34,understands,hippopotamus,ippopotamo,0.8421052631578947
+Italian,35,understands,hippopotamus,ippopotamo,0.6
+Italian,36,understands,hippopotamus,ippopotamo,0.6666666666666666
+Korean,8,understands,hippopotamus,하마,0.022222222222222223
+Korean,9,understands,hippopotamus,하마,0
+Korean,10,understands,hippopotamus,하마,0
+Korean,11,understands,hippopotamus,하마,0.03076923076923077
+Korean,12,understands,hippopotamus,하마,0.08333333333333333
+Korean,13,understands,hippopotamus,하마,0.12857142857142856
+Korean,14,understands,hippopotamus,하마,0.09836065573770492
+Korean,15,understands,hippopotamus,하마,0.14516129032258066
+Korean,16,understands,hippopotamus,하마,0.2222222222222222
+Korean,17,understands,hippopotamus,하마,0.288135593220339
+Korean,18,understands,hippopotamus,하마,0.24615384615384617
+Korean,19,understands,hippopotamus,하마,0.20634920634920634
+Korean,20,understands,hippopotamus,하마,0.20967741935483872
+Korean,21,understands,hippopotamus,하마,0.288135593220339
+Korean,22,understands,hippopotamus,하마,0.47058823529411764
+Korean,23,understands,hippopotamus,하마,0.44776119402985076
+Korean,24,understands,hippopotamus,하마,0.6
+Korean,25,understands,hippopotamus,하마,0.6527777777777778
+Korean,26,understands,hippopotamus,하마,0.640625
+Korean,27,understands,hippopotamus,하마,0.6875
+Korean,28,understands,hippopotamus,하마,0.8142857142857143
+Korean,29,understands,hippopotamus,하마,0.8356164383561644
+Korean,30,understands,hippopotamus,하마,0.7846153846153846
+Korean,31,understands,hippopotamus,하마,0.7647058823529411
+Korean,32,understands,hippopotamus,하마,0.8253968253968254
+Korean,33,understands,hippopotamus,하마,0.7945205479452054
+Korean,34,understands,hippopotamus,하마,0.8571428571428571
+Korean,35,understands,hippopotamus,하마,0.9032258064516129
+Korean,36,understands,hippopotamus,하마,0.927536231884058
+Russian,18,understands,hippopotamus,бегемот,0.047619047619047616
+Russian,19,understands,hippopotamus,бегемот,0.12195121951219512
+Russian,20,understands,hippopotamus,бегемот,0.2222222222222222
+Russian,21,understands,hippopotamus,бегемот,0.32558139534883723
+Russian,22,understands,hippopotamus,бегемот,0.3333333333333333
+Russian,23,understands,hippopotamus,бегемот,0.32142857142857145
+Russian,24,understands,hippopotamus,бегемот,0.4098360655737705
+Russian,25,understands,hippopotamus,бегемот,0.4696969696969697
+Russian,26,understands,hippopotamus,бегемот,0.5576923076923077
+Russian,27,understands,hippopotamus,бегемот,0.5
+Russian,28,understands,hippopotamus,бегемот,0.6333333333333333
+Russian,29,understands,hippopotamus,бегемот,0.7758620689655172
+Russian,30,understands,hippopotamus,бегемот,0.6363636363636364
+Russian,31,understands,hippopotamus,бегемот,0.7049180327868853
+Russian,32,understands,hippopotamus,бегемот,0.7636363636363637
+Russian,33,understands,hippopotamus,бегемот,0.7090909090909091
+Russian,34,understands,hippopotamus,бегемот,0.7586206896551724
+Russian,35,understands,hippopotamus,бегемот,0.7659574468085106
+Russian,36,understands,hippopotamus,бегемот,0.8775510204081632
+Slovak,17,understands,hippopotamus,hroch,0.37142857142857144
+Slovak,18,understands,hippopotamus,hroch,0.4461538461538462
+Slovak,19,understands,hippopotamus,hroch,0.5178571428571429
+Slovak,20,understands,hippopotamus,hroch,0.5967741935483871
+Slovak,21,understands,hippopotamus,hroch,0.6049382716049383
+Slovak,22,understands,hippopotamus,hroch,0.6037735849056604
+Slovak,23,understands,hippopotamus,hroch,0.6949152542372882
+Slovak,24,understands,hippopotamus,hroch,0.711864406779661
+Slovak,25,understands,hippopotamus,hroch,0.7246376811594203
+Slovak,26,understands,hippopotamus,hroch,0.8205128205128205
+Slovak,27,understands,hippopotamus,hroch,0.8387096774193549
+Slovak,28,understands,hippopotamus,hroch,0.7790697674418605
+Slovak,29,understands,hippopotamus,hroch,0.8
+Slovak,30,understands,hippopotamus,hroch,0.8367346938775511
+Slovak,31,understands,hippopotamus,hroch,0.8275862068965517
+Slovak,32,understands,hippopotamus,hroch,0.8
+Slovak,33,understands,hippopotamus,hroch,0.8181818181818182
+Slovak,34,understands,hippopotamus,hroch,0.8518518518518519
+Slovak,35,understands,hippopotamus,hroch,0.8518518518518519
+Slovak,36,understands,hippopotamus,hroch,1
+Spanish (Mexican),8,understands,hippopotamus,hipopótamo,0.025
+Spanish (Mexican),9,understands,hippopotamus,hipopótamo,0
+Spanish (Mexican),10,understands,hippopotamus,hipopótamo,0
+Spanish (Mexican),11,understands,hippopotamus,hipopótamo,0
+Spanish (Mexican),12,understands,hippopotamus,hipopótamo,0
+Spanish (Mexican),13,understands,hippopotamus,hipopótamo,0.024096385542168676
+Spanish (Mexican),14,understands,hippopotamus,hipopótamo,0.02631578947368421
+Spanish (Mexican),15,understands,hippopotamus,hipopótamo,0.03278688524590164
+Spanish (Mexican),16,understands,hippopotamus,hipopótamo,0.10457516339869281
+Spanish (Mexican),17,understands,hippopotamus,hipopótamo,0.13821138211382114
+Spanish (Mexican),18,understands,hippopotamus,hipopótamo,0.10596026490066225
+Spanish (Mexican),19,understands,hippopotamus,hipopótamo,0.14634146341463414
+Spanish (Mexican),20,understands,hippopotamus,hipopótamo,0.12121212121212122
+Spanish (Mexican),21,understands,hippopotamus,hipopótamo,0.10588235294117647
+Spanish (Mexican),22,understands,hippopotamus,hipopótamo,0.1206896551724138
+Spanish (Mexican),23,understands,hippopotamus,hipopótamo,0.10227272727272728
+Spanish (Mexican),24,understands,hippopotamus,hipopótamo,0.2717391304347826
+Spanish (Mexican),25,understands,hippopotamus,hipopótamo,0.2558139534883721
+Spanish (Mexican),26,understands,hippopotamus,hipopótamo,0.24324324324324326
+Spanish (Mexican),27,understands,hippopotamus,hipopótamo,0.2222222222222222
+Spanish (Mexican),28,understands,hippopotamus,hipopótamo,0.3048780487804878
+Spanish (Mexican),29,understands,hippopotamus,hipopótamo,0.29333333333333333
+Spanish (Mexican),30,understands,hippopotamus,hipopótamo,0.3230769230769231

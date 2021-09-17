@@ -1,0 +1,326 @@
+language,age,measure,uni_lemma,words,prop
+American Sign Language,10,produces,chocolate,CHOCOLATE,0
+American Sign Language,18,produces,chocolate,CHOCOLATE,0
+American Sign Language,21,produces,chocolate,CHOCOLATE,0
+American Sign Language,23,produces,chocolate,CHOCOLATE,0.25
+American Sign Language,24,produces,chocolate,CHOCOLATE,0.3333333333333333
+American Sign Language,27,produces,chocolate,CHOCOLATE,0.2
+American Sign Language,30,produces,chocolate,CHOCOLATE,0.6666666666666666
+American Sign Language,31,produces,chocolate,CHOCOLATE,1
+American Sign Language,32,produces,chocolate,CHOCOLATE,0.8333333333333334
+American Sign Language,34,produces,chocolate,CHOCOLATE,0.6666666666666666
+British Sign Language,8,produces,chocolate,chocolate,0
+British Sign Language,9,produces,chocolate,chocolate,0
+British Sign Language,10,produces,chocolate,chocolate,0
+British Sign Language,11,produces,chocolate,chocolate,0
+British Sign Language,12,produces,chocolate,chocolate,0
+British Sign Language,13,produces,chocolate,chocolate,0
+British Sign Language,14,produces,chocolate,chocolate,0.14285714285714285
+British Sign Language,15,produces,chocolate,chocolate,0
+British Sign Language,16,produces,chocolate,chocolate,0.14285714285714285
+British Sign Language,17,produces,chocolate,chocolate,0
+British Sign Language,18,produces,chocolate,chocolate,0
+British Sign Language,19,produces,chocolate,chocolate,0.25
+British Sign Language,20,produces,chocolate,chocolate,0.18181818181818182
+British Sign Language,21,produces,chocolate,chocolate,0
+British Sign Language,22,produces,chocolate,chocolate,0.3333333333333333
+British Sign Language,23,produces,chocolate,chocolate,0.14285714285714285
+British Sign Language,24,produces,chocolate,chocolate,0.2
+British Sign Language,25,produces,chocolate,chocolate,0.14285714285714285
+British Sign Language,26,produces,chocolate,chocolate,0.6666666666666666
+British Sign Language,27,produces,chocolate,chocolate,0
+British Sign Language,28,produces,chocolate,chocolate,0
+British Sign Language,29,produces,chocolate,chocolate,0.7142857142857143
+British Sign Language,30,produces,chocolate,chocolate,0.4
+British Sign Language,32,produces,chocolate,chocolate,0.6666666666666666
+British Sign Language,33,produces,chocolate,chocolate,0.4
+British Sign Language,36,produces,chocolate,chocolate,0.3333333333333333
+Cantonese,16,produces,chocolate,朱古力,0
+Cantonese,17,produces,chocolate,朱古力,0.06557377049180328
+Cantonese,18,produces,chocolate,朱古力,0.07575757575757576
+Cantonese,19,produces,chocolate,朱古力,0.07575757575757576
+Cantonese,20,produces,chocolate,朱古力,0.2191780821917808
+Cantonese,21,produces,chocolate,朱古力,0.16666666666666666
+Cantonese,22,produces,chocolate,朱古力,0.2857142857142857
+Cantonese,23,produces,chocolate,朱古力,0.3918918918918919
+Cantonese,24,produces,chocolate,朱古力,0.4411764705882353
+Cantonese,25,produces,chocolate,朱古力,0.5384615384615384
+Cantonese,26,produces,chocolate,朱古力,0.6417910447761194
+Cantonese,27,produces,chocolate,朱古力,0.7419354838709677
+Cantonese,28,produces,chocolate,朱古力,0.803030303030303
+Cantonese,29,produces,chocolate,朱古力,0.8591549295774648
+Cantonese,30,produces,chocolate,朱古力,0.8088235294117647
+Croatian,8,produces,chocolate,čokolada,0
+Croatian,9,produces,chocolate,čokolada,0
+Croatian,10,produces,chocolate,čokolada,0
+Croatian,11,produces,chocolate,čokolada,0
+Croatian,12,produces,chocolate,čokolada,0
+Croatian,13,produces,chocolate,čokolada,0.029411764705882353
+Croatian,14,produces,chocolate,čokolada,0.10714285714285714
+Croatian,15,produces,chocolate,čokolada,0.20833333333333334
+Croatian,16,produces,chocolate,čokolada,0.3404255319148936
+Croatian,17,produces,chocolate,čokolada,0.36
+Croatian,18,produces,chocolate,čokolada,0.36363636363636365
+Croatian,19,produces,chocolate,čokolada,0.47619047619047616
+Croatian,20,produces,chocolate,čokolada,0.5769230769230769
+Croatian,21,produces,chocolate,čokolada,0.5862068965517241
+Croatian,22,produces,chocolate,čokolada,0.75
+Croatian,23,produces,chocolate,čokolada,0.8846153846153846
+Croatian,24,produces,chocolate,čokolada,0.8666666666666667
+Croatian,25,produces,chocolate,čokolada,0.9666666666666667
+Croatian,26,produces,chocolate,čokolada,0.9655172413793104
+Croatian,27,produces,chocolate,čokolada,0.96
+Croatian,28,produces,chocolate,čokolada,0.9523809523809523
+Croatian,29,produces,chocolate,čokolada,0.8928571428571429
+Croatian,30,produces,chocolate,čokolada,0.9642857142857143
+English (American),16,produces,chocolate,chocolate,0.02510460251046025
+English (American),17,produces,chocolate,chocolate,0.040293040293040296
+English (American),18,produces,chocolate,chocolate,0.11312217194570136
+English (American),19,produces,chocolate,chocolate,0.14329268292682926
+English (American),20,produces,chocolate,chocolate,0.20802919708029197
+English (American),21,produces,chocolate,chocolate,0.2315270935960591
+English (American),22,produces,chocolate,chocolate,0.38
+English (American),23,produces,chocolate,chocolate,0.4083969465648855
+English (American),24,produces,chocolate,chocolate,0.5025728987993139
+English (American),25,produces,chocolate,chocolate,0.5255255255255256
+English (American),26,produces,chocolate,chocolate,0.5911602209944752
+English (American),27,produces,chocolate,chocolate,0.676923076923077
+English (American),28,produces,chocolate,chocolate,0.7929736511919699
+English (American),29,produces,chocolate,chocolate,0.7373737373737373
+English (American),30,produces,chocolate,chocolate,0.8711864406779661
+English (Australian),12,produces,chocolate,chocolate,0
+English (Australian),13,produces,chocolate,chocolate,0.015625
+English (Australian),14,produces,chocolate,chocolate,0.04504504504504504
+English (Australian),15,produces,chocolate,chocolate,0.043478260869565216
+English (Australian),16,produces,chocolate,chocolate,0.08333333333333333
+English (Australian),17,produces,chocolate,chocolate,0.057692307692307696
+English (Australian),18,produces,chocolate,chocolate,0.13761467889908258
+English (Australian),19,produces,chocolate,chocolate,0.28225806451612906
+English (Australian),20,produces,chocolate,chocolate,0.34615384615384615
+English (Australian),21,produces,chocolate,chocolate,0.4264705882352941
+English (Australian),22,produces,chocolate,chocolate,0.547945205479452
+English (Australian),23,produces,chocolate,chocolate,0.7183098591549296
+English (Australian),24,produces,chocolate,chocolate,0.6052631578947368
+English (Australian),25,produces,chocolate,chocolate,0.7176470588235294
+English (Australian),26,produces,chocolate,chocolate,0.7272727272727273
+English (Australian),27,produces,chocolate,chocolate,0.8194444444444444
+English (Australian),28,produces,chocolate,chocolate,0.8507462686567164
+English (Australian),29,produces,chocolate,chocolate,0.8615384615384616
+English (Australian),30,produces,chocolate,chocolate,0.9245283018867925
+French (French),8,produces,chocolate,chocolat,0
+French (French),9,produces,chocolate,chocolat,0
+French (French),11,produces,chocolate,chocolat,0
+French (French),12,produces,chocolate,chocolat,0
+French (French),13,produces,chocolate,chocolat,0
+French (French),14,produces,chocolate,chocolat,0
+French (French),16,produces,chocolate,chocolat,0.041666666666666664
+French (French),17,produces,chocolate,chocolat,0.11538461538461539
+French (French),19,produces,chocolate,chocolat,0.45454545454545453
+French (French),20,produces,chocolate,chocolat,0.375
+French (French),21,produces,chocolate,chocolat,0.48214285714285715
+French (French),22,produces,chocolate,chocolat,0.7073170731707317
+French (French),23,produces,chocolate,chocolat,0.5352112676056338
+French (French),24,produces,chocolate,chocolat,0.7153846153846154
+French (French),25,produces,chocolate,chocolat,0.8809523809523809
+French (French),26,produces,chocolate,chocolat,0.71875
+French (French),27,produces,chocolate,chocolat,0.7692307692307693
+French (French),28,produces,chocolate,chocolat,0.9117647058823529
+French (French),29,produces,chocolate,chocolat,0.9714285714285714
+French (French),30,produces,chocolate,chocolat,1
+German,18,produces,chocolate,Schokolade,0.058823529411764705
+German,19,produces,chocolate,Schokolade,0.22784810126582278
+German,20,produces,chocolate,Schokolade,0.22916666666666666
+German,21,produces,chocolate,Schokolade,0.38961038961038963
+German,22,produces,chocolate,Schokolade,0.4
+German,23,produces,chocolate,Schokolade,0.49473684210526314
+German,24,produces,chocolate,Schokolade,0.6019417475728155
+German,25,produces,chocolate,Schokolade,0.7473684210526316
+German,26,produces,chocolate,Schokolade,0.782608695652174
+German,27,produces,chocolate,Schokolade,0.7528089887640449
+German,28,produces,chocolate,Schokolade,0.8387096774193549
+German,29,produces,chocolate,Schokolade,0.8764044943820225
+German,30,produces,chocolate,Schokolade,0.946236559139785
+Greek (Cypriot),18,produces,chocolate,σοκολάτα,0.1111111111111111
+Greek (Cypriot),21,produces,chocolate,σοκολάτα,0.25
+Greek (Cypriot),24,produces,chocolate,σοκολάτα,0.53125
+Greek (Cypriot),27,produces,chocolate,σοκολάτα,0.896551724137931
+Greek (Cypriot),30,produces,chocolate,σοκολάτα,0.8529411764705882
+Hebrew,12,produces,chocolate,שוקו,0
+Hebrew,15,produces,chocolate,שוקו,0
+Hebrew,16,produces,chocolate,שוקו,0.25
+Hebrew,19,produces,chocolate,שוקו,0.2857142857142857
+Hebrew,20,produces,chocolate,שוקו,0.7142857142857143
+Hebrew,21,produces,chocolate,שוקו,0.8
+Hebrew,22,produces,chocolate,שוקו,0.3333333333333333
+Hebrew,23,produces,chocolate,שוקו,0.6
+Hebrew,24,produces,chocolate,שוקו,0.875
+Hebrew,25,produces,chocolate,שוקולד,0.7195121951219512
+Hebrew,26,produces,chocolate,שוקולד,0.8589743589743589
+Hebrew,27,produces,chocolate,שוקולד,0.9117647058823529
+Hebrew,28,produces,chocolate,שוקולד,0.9107142857142857
+Hebrew,29,produces,chocolate,שוקולד,0.9347826086956522
+Hebrew,30,produces,chocolate,שוקולד,0.9259259259259259
+Hebrew,31,produces,chocolate,שוקולד,0.90625
+Hebrew,32,produces,chocolate,שוקולד,0.967741935483871
+Hebrew,33,produces,chocolate,שוקולד,0.9047619047619048
+Hebrew,34,produces,chocolate,שוקולד,1
+Hebrew,35,produces,chocolate,שוקולד,0.875
+Italian,7,produces,chocolate,cioccolata,0
+Italian,8,produces,chocolate,cioccolata,0
+Italian,9,produces,chocolate,cioccolata,0
+Italian,10,produces,chocolate,cioccolata,0
+Italian,11,produces,chocolate,cioccolata,0
+Italian,12,produces,chocolate,cioccolata,0
+Italian,13,produces,chocolate,cioccolata,0
+Italian,14,produces,chocolate,cioccolata,0.025
+Italian,15,produces,chocolate,cioccolata,0
+Italian,16,produces,chocolate,cioccolata,0.017857142857142856
+Italian,17,produces,chocolate,cioccolata,0.08333333333333333
+Italian,18,produces,chocolate,cioccolata,0.14666666666666667
+Italian,19,produces,chocolate,cioccolata,0.22413793103448276
+Italian,20,produces,chocolate,cioccolata,0.1566265060240964
+Italian,21,produces,chocolate,cioccolata,0.2835820895522388
+Italian,22,produces,chocolate,cioccolata,0.38961038961038963
+Italian,23,produces,chocolate,cioccolata,0.5142857142857142
+Italian,24,produces,chocolate,cioccolata,0.5882352941176471
+Italian,25,produces,chocolate,cioccolata,0.6666666666666666
+Italian,26,produces,chocolate,cioccolata,0.7804878048780488
+Italian,27,produces,chocolate,cioccolata,0.7674418604651163
+Italian,28,produces,chocolate,cioccolata,0.7272727272727273
+Italian,29,produces,chocolate,cioccolata,0.918918918918919
+Italian,30,produces,chocolate,cioccolata,0.8507462686567164
+Italian,31,produces,chocolate,cioccolata,0.9473684210526315
+Italian,32,produces,chocolate,cioccolata,0.8260869565217391
+Italian,33,produces,chocolate,cioccolata,0.9375
+Italian,34,produces,chocolate,cioccolata,0.9473684210526315
+Italian,35,produces,chocolate,cioccolata,0.9333333333333333
+Italian,36,produces,chocolate,cioccolata,0.9047619047619048
+Kiswahili,22,produces,chocolate,Chocolate,0.6666666666666666
+Kiswahili,23,produces,chocolate,Chocolate,0
+Kiswahili,24,produces,chocolate,Chocolate,0.3333333333333333
+Kiswahili,25,produces,chocolate,Chocolate,0.46153846153846156
+Kiswahili,26,produces,chocolate,Chocolate,0.3333333333333333
+Kiswahili,27,produces,chocolate,Chocolate,0.5384615384615384
+Kiswahili,28,produces,chocolate,Chocolate,0.7142857142857143
+Kiswahili,29,produces,chocolate,Chocolate,0.5555555555555556
+Korean,8,produces,chocolate,초콜렛,0
+Korean,9,produces,chocolate,초콜렛,0
+Korean,10,produces,chocolate,초콜렛,0
+Korean,11,produces,chocolate,초콜렛,0
+Korean,12,produces,chocolate,초콜렛,0
+Korean,13,produces,chocolate,초콜렛,0.02857142857142857
+Korean,14,produces,chocolate,초콜렛,0.01639344262295082
+Korean,15,produces,chocolate,초콜렛,0
+Korean,16,produces,chocolate,초콜렛,0.031746031746031744
+Korean,17,produces,chocolate,초콜렛,0.13559322033898305
+Korean,18,produces,chocolate,초콜렛,0.13846153846153847
+Korean,19,produces,chocolate,초콜렛,0.047619047619047616
+Korean,20,produces,chocolate,초콜렛,0.0967741935483871
+Korean,21,produces,chocolate,초콜렛,0.2542372881355932
+Korean,22,produces,chocolate,초콜렛,0.25
+Korean,23,produces,chocolate,초콜렛,0.34328358208955223
+Korean,24,produces,chocolate,초콜렛,0.5733333333333334
+Korean,25,produces,chocolate,초콜렛,0.5972222222222222
+Korean,26,produces,chocolate,초콜렛,0.5625
+Korean,27,produces,chocolate,초콜렛,0.7
+Korean,28,produces,chocolate,초콜렛,0.7285714285714285
+Korean,29,produces,chocolate,초콜렛,0.863013698630137
+Korean,30,produces,chocolate,초콜렛,0.7692307692307693
+Korean,31,produces,chocolate,초콜렛,0.8676470588235294
+Korean,32,produces,chocolate,초콜렛,0.9365079365079365
+Korean,33,produces,chocolate,초콜렛,0.8767123287671232
+Korean,34,produces,chocolate,초콜렛,0.9857142857142858
+Korean,35,produces,chocolate,초콜렛,0.9193548387096774
+Korean,36,produces,chocolate,초콜렛,0.9420289855072463
+Mandarin,16,produces,chocolate,巧克力,0.02857142857142857
+Mandarin,17,produces,chocolate,巧克力,0.05357142857142857
+Mandarin,18,produces,chocolate,巧克力,0.09917355371900827
+Mandarin,19,produces,chocolate,巧克力,0.225
+Mandarin,20,produces,chocolate,巧克力,0.2644628099173554
+Mandarin,21,produces,chocolate,巧克力,0.4117647058823529
+Mandarin,22,produces,chocolate,巧克力,0.47863247863247865
+Mandarin,23,produces,chocolate,巧克力,0.6166666666666667
+Mandarin,24,produces,chocolate,巧克力,0.6333333333333333
+Mandarin,25,produces,chocolate,巧克力,0.7699115044247787
+Mandarin,26,produces,chocolate,巧克力,0.7966101694915254
+Mandarin,27,produces,chocolate,巧克力,0.8333333333333334
+Mandarin,28,produces,chocolate,巧克力,0.8333333333333334
+Mandarin,29,produces,chocolate,巧克力,0.9327731092436975
+Mandarin,30,produces,chocolate,巧克力,0.9181818181818182
+Russian,18,produces,chocolate,шоколад,0.047619047619047616
+Russian,19,produces,chocolate,шоколад,0.04878048780487805
+Russian,20,produces,chocolate,шоколад,0.15555555555555556
+Russian,21,produces,chocolate,шоколад,0.2558139534883721
+Russian,22,produces,chocolate,шоколад,0.2549019607843137
+Russian,23,produces,chocolate,шоколад,0.42857142857142855
+Russian,24,produces,chocolate,шоколад,0.4918032786885246
+Russian,25,produces,chocolate,шоколад,0.5757575757575758
+Russian,26,produces,chocolate,шоколад,0.5192307692307693
+Russian,27,produces,chocolate,шоколад,0.55
+Russian,28,produces,chocolate,шоколад,0.7
+Russian,29,produces,chocolate,шоколад,0.6896551724137931
+Russian,30,produces,chocolate,шоколад,0.7532467532467533
+Russian,31,produces,chocolate,шоколад,0.8032786885245902
+Russian,32,produces,chocolate,шоколад,0.8545454545454545
+Russian,33,produces,chocolate,шоколад,0.8363636363636363
+Russian,34,produces,chocolate,шоколад,0.8793103448275862
+Russian,35,produces,chocolate,шоколад,0.851063829787234
+Russian,36,produces,chocolate,шоколад,0.7959183673469388
+Slovak,8,produces,chocolate,čokoláda,0
+Slovak,9,produces,chocolate,čokoláda,0
+Slovak,10,produces,chocolate,čokoláda,0.0136986301369863
+Slovak,11,produces,chocolate,čokoláda,0.016129032258064516
+Slovak,12,produces,chocolate,čokoláda,0
+Slovak,13,produces,chocolate,čokoláda,0
+Slovak,14,produces,chocolate,čokoláda,0.05128205128205128
+Slovak,15,produces,chocolate,čokoláda,0.05747126436781609
+Slovak,16,produces,chocolate,čokoláda,0.17647058823529413
+Slovak,17,produces,chocolate,čokoláda,0.15714285714285714
+Slovak,18,produces,chocolate,čokoláda,0.23076923076923078
+Slovak,19,produces,chocolate,čokoláda,0.23214285714285715
+Slovak,20,produces,chocolate,čokoláda,0.532258064516129
+Slovak,21,produces,chocolate,čokoláda,0.4567901234567901
+Slovak,22,produces,chocolate,čokoláda,0.4716981132075472
+Slovak,23,produces,chocolate,čokoláda,0.6101694915254238
+Slovak,24,produces,chocolate,čokoláda,0.711864406779661
+Slovak,25,produces,chocolate,čokoláda,0.7391304347826086
+Slovak,26,produces,chocolate,čokoláda,0.8846153846153846
+Slovak,27,produces,chocolate,čokoláda,0.9193548387096774
+Slovak,28,produces,chocolate,čokoláda,0.8372093023255814
+Slovak,29,produces,chocolate,čokoláda,0.8533333333333334
+Slovak,30,produces,chocolate,čokoláda,0.8367346938775511
+Slovak,31,produces,chocolate,čokoláda,0.9310344827586207
+Slovak,32,produces,chocolate,čokoláda,0.96
+Slovak,33,produces,chocolate,čokoláda,1
+Slovak,34,produces,chocolate,čokoláda,0.9629629629629629
+Slovak,35,produces,chocolate,čokoláda,0.9259259259259259
+Slovak,36,produces,chocolate,čokoláda,0.875
+Turkish,8,produces,chocolate,Çikolata,0.007142857142857143
+Turkish,9,produces,chocolate,Çikolata,0
+Turkish,10,produces,chocolate,Çikolata,0
+Turkish,11,produces,chocolate,Çikolata,0.008
+Turkish,12,produces,chocolate,Çikolata,0.008333333333333333
+Turkish,13,produces,chocolate,Çikolata,0.01639344262295082
+Turkish,14,produces,chocolate,Çikolata,0.047619047619047616
+Turkish,15,produces,chocolate,Çikolata,0.04580152671755725
+Turkish,16,produces,chocolate,Çikolata,0.07608695652173914
+Turkish,17,produces,chocolate,Çikolata,0.14953271028037382
+Turkish,18,produces,chocolate,Çikolata,0.2421875
+Turkish,19,produces,chocolate,Çikolata,0.33884297520661155
+Turkish,20,produces,chocolate,Çikolata,0.37815126050420167
+Turkish,21,produces,chocolate,Çikolata,0.46774193548387094
+Turkish,22,produces,chocolate,Çikolata,0.4365079365079365
+Turkish,23,produces,chocolate,Çikolata,0.5725190839694656
+Turkish,24,produces,chocolate,Çikolata,0.5943396226415094
+Turkish,25,produces,chocolate,Çikolata,0.6585365853658537
+Turkish,26,produces,chocolate,Çikolata,0.6504065040650406
+Turkish,27,produces,chocolate,Çikolata,0.7037037037037037
+Turkish,28,produces,chocolate,Çikolata,0.8035714285714286
+Turkish,29,produces,chocolate,Çikolata,0.7815126050420168
+Turkish,30,produces,chocolate,Çikolata,0.875
+Turkish,31,produces,chocolate,Çikolata,0.8316831683168316
+Turkish,32,produces,chocolate,Çikolata,0.8939393939393939
+Turkish,33,produces,chocolate,Çikolata,0.9298245614035088
+Turkish,34,produces,chocolate,Çikolata,0.8691588785046729
+Turkish,35,produces,chocolate,Çikolata,0.8778625954198473
+Turkish,36,produces,chocolate,Çikolata,0.948051948051948

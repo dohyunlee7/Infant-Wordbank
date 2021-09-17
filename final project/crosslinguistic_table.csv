@@ -1,0 +1,494 @@
+language,age,measure,uni_lemma,words,prop
+American Sign Language,10,produces,dog,DOG,0
+American Sign Language,18,produces,dog,DOG,1
+American Sign Language,21,produces,dog,DOG,0.75
+American Sign Language,23,produces,dog,DOG,0.75
+American Sign Language,24,produces,dog,DOG,1
+American Sign Language,27,produces,dog,DOG,1
+American Sign Language,30,produces,dog,DOG,1
+American Sign Language,31,produces,dog,DOG,1
+American Sign Language,32,produces,dog,DOG,1
+American Sign Language,34,produces,dog,DOG,1
+British Sign Language,8,produces,dog,dog,0
+British Sign Language,9,produces,dog,dog,0.25
+British Sign Language,10,produces,dog,dog,0
+British Sign Language,11,produces,dog,dog,0.16666666666666666
+British Sign Language,12,produces,dog,dog,0
+British Sign Language,13,produces,dog,dog,0.16666666666666666
+British Sign Language,14,produces,dog,dog,0.42857142857142855
+British Sign Language,15,produces,dog,dog,0.3333333333333333
+British Sign Language,16,produces,dog,dog,0.42857142857142855
+British Sign Language,17,produces,dog,dog,0.5714285714285714
+British Sign Language,18,produces,dog,dog,0.625
+British Sign Language,19,produces,dog,dog,1
+British Sign Language,20,produces,dog,dog,0.9090909090909091
+British Sign Language,21,produces,dog,dog,0.8
+British Sign Language,22,produces,dog,dog,1
+British Sign Language,23,produces,dog,dog,0.8571428571428571
+British Sign Language,24,produces,dog,dog,1
+British Sign Language,25,produces,dog,dog,1
+British Sign Language,26,produces,dog,dog,1
+British Sign Language,27,produces,dog,dog,1
+British Sign Language,28,produces,dog,dog,1
+British Sign Language,29,produces,dog,dog,1
+British Sign Language,30,produces,dog,dog,1
+British Sign Language,32,produces,dog,dog,1
+British Sign Language,33,produces,dog,dog,1
+British Sign Language,36,produces,dog,dog,1
+Cantonese,16,produces,dog,狗,0.4222222222222222
+Cantonese,17,produces,dog,狗,0.5081967213114754
+Cantonese,18,produces,dog,狗,0.7424242424242424
+Cantonese,19,produces,dog,狗,0.6818181818181818
+Cantonese,20,produces,dog,狗,0.8082191780821918
+Cantonese,21,produces,dog,狗,0.75
+Cantonese,22,produces,dog,狗,0.7777777777777778
+Cantonese,23,produces,dog,狗,0.7837837837837838
+Cantonese,24,produces,dog,狗,0.8970588235294118
+Cantonese,25,produces,dog,狗,0.9076923076923077
+Cantonese,26,produces,dog,狗,0.8955223880597015
+Cantonese,27,produces,dog,狗,0.9354838709677419
+Cantonese,28,produces,dog,狗,0.9848484848484849
+Cantonese,29,produces,dog,狗,0.971830985915493
+Cantonese,30,produces,dog,狗,0.9558823529411765
+Croatian,8,produces,dog,pas,0
+Croatian,9,produces,dog,pas,0
+Croatian,10,produces,dog,pas,0.045454545454545456
+Croatian,11,produces,dog,pas,0
+Croatian,12,produces,dog,pas,0.05714285714285714
+Croatian,13,produces,dog,pas,0.17647058823529413
+Croatian,14,produces,dog,pas,0.25
+Croatian,15,produces,dog,pas,0.25
+Croatian,16,produces,dog,pas,0.5106382978723404
+Croatian,17,produces,dog,pas,0.28
+Croatian,18,produces,dog,pas,0.45454545454545453
+Croatian,19,produces,dog,pas,0.5238095238095238
+Croatian,20,produces,dog,pas,0.6923076923076923
+Croatian,21,produces,dog,pas,0.6551724137931034
+Croatian,22,produces,dog,pas,0.75
+Croatian,23,produces,dog,pas,0.7307692307692307
+Croatian,24,produces,dog,pas,0.9
+Croatian,25,produces,dog,pas,0.8333333333333334
+Croatian,26,produces,dog,pas,0.9655172413793104
+Croatian,27,produces,dog,pas,0.96
+Croatian,28,produces,dog,pas,0.9523809523809523
+Croatian,29,produces,dog,pas,0.8928571428571429
+Croatian,30,produces,dog,pas,0.9642857142857143
+Danish,8,produces,dog,hund,0
+Danish,9,produces,dog,hund,0
+Danish,10,produces,dog,hund,0
+Danish,11,produces,dog,hund,0
+Danish,12,produces,dog,hund,0.026595744680851064
+Danish,13,produces,dog,hund,0.06018518518518518
+Danish,14,produces,dog,hund,0.07303370786516854
+Danish,15,produces,dog,hund,0.11822660098522167
+Danish,16,produces,dog,hund,0.17827298050139276
+Danish,17,produces,dog,hund,0.2745664739884393
+Danish,18,produces,dog,hund,0.3407821229050279
+Danish,19,produces,dog,hund,0.44598337950138506
+Danish,20,produces,dog,hund,0.5893854748603352
+Danish,21,produces,dog,hund,0.635593220338983
+Danish,22,produces,dog,hund,0.723404255319149
+Danish,23,produces,dog,hund,0.7894736842105263
+Danish,24,produces,dog,hund,0.875
+Danish,25,produces,dog,hund,0.8695652173913043
+Danish,26,produces,dog,hund,0.9368932038834952
+Danish,27,produces,dog,hund,0.9602272727272727
+Danish,28,produces,dog,hund,0.9631578947368421
+Danish,29,produces,dog,hund,0.9615384615384616
+Danish,30,produces,dog,hund,0.976878612716763
+Danish,31,produces,dog,hund,0.9828571428571429
+Danish,32,produces,dog,hund,1
+Danish,33,produces,dog,hund,0.9867549668874173
+Danish,34,produces,dog,hund,0.993006993006993
+Danish,35,produces,dog,hund,0.9911504424778761
+Danish,36,produces,dog,hund,1
+English (American),8,produces,dog,dog,0
+English (American),9,produces,dog,dog,0
+English (American),10,produces,dog,dog,0.04516129032258064
+English (American),11,produces,dog,dog,0.1276595744680851
+English (American),12,produces,dog,dog,0.24475524475524477
+English (American),13,produces,dog,dog,0.37662337662337664
+English (American),14,produces,dog,dog,0.36923076923076925
+English (American),15,produces,dog,dog,0.5206611570247934
+English (American),16,produces,dog,dog,0.6646778042959427
+English (American),17,produces,dog,dog,0.6795580110497238
+English (American),18,produces,dog,dog,0.7661596958174905
+English (American),19,produces,dog,dog,0.8323170731707317
+English (American),20,produces,dog,dog,0.8211678832116789
+English (American),21,produces,dog,dog,0.8472906403940886
+English (American),22,produces,dog,dog,0.87
+English (American),23,produces,dog,dog,0.9427480916030534
+English (American),24,produces,dog,dog,0.9262435677530018
+English (American),25,produces,dog,dog,0.948948948948949
+English (American),26,produces,dog,dog,0.9834254143646409
+English (American),27,produces,dog,dog,0.9641025641025641
+English (American),28,produces,dog,dog,0.9949811794228356
+English (American),29,produces,dog,dog,0.9747474747474747
+English (American),30,produces,dog,dog,0.9627118644067797
+English (Australian),12,produces,dog,dog,0.07042253521126761
+English (Australian),13,produces,dog,dog,0.234375
+English (Australian),14,produces,dog,dog,0.3783783783783784
+English (Australian),15,produces,dog,dog,0.391304347826087
+English (Australian),16,produces,dog,dog,0.45
+English (Australian),17,produces,dog,dog,0.5288461538461539
+English (Australian),18,produces,dog,dog,0.5137614678899083
+English (Australian),19,produces,dog,dog,0.7016129032258065
+English (Australian),20,produces,dog,dog,0.8333333333333334
+English (Australian),21,produces,dog,dog,0.8235294117647058
+English (Australian),22,produces,dog,dog,0.8904109589041096
+English (Australian),23,produces,dog,dog,0.8873239436619719
+English (Australian),24,produces,dog,dog,0.8552631578947368
+English (Australian),25,produces,dog,dog,0.9176470588235294
+English (Australian),26,produces,dog,dog,0.8701298701298701
+English (Australian),27,produces,dog,dog,0.9583333333333334
+English (Australian),28,produces,dog,dog,0.9701492537313433
+English (Australian),29,produces,dog,dog,0.9230769230769231
+English (Australian),30,produces,dog,dog,0.9811320754716981
+English (British),12,produces,dog,dog,0.2222222222222222
+English (British),13,produces,dog,dog,0.2857142857142857
+English (British),14,produces,dog,dog,0.234375
+English (British),15,produces,dog,dog,0.2840909090909091
+English (British),16,produces,dog,dog,0.3728813559322034
+English (British),17,produces,dog,dog,0.48223350253807107
+English (British),18,produces,dog,dog,0.5169491525423728
+English (British),19,produces,dog,dog,0.6788990825688074
+English (British),20,produces,dog,dog,0.7671232876712328
+English (British),21,produces,dog,dog,0.8292682926829268
+English (British),22,produces,dog,dog,0.8614864864864865
+English (British),23,produces,dog,dog,0.8617558022199798
+English (British),24,produces,dog,dog,0.8744228993536473
+English (British),25,produces,dog,dog,0.8884934756820878
+English (British),26,produces,dog,dog,0.9148936170212766
+English (British),27,produces,dog,dog,0.8523489932885906
+English (British),28,produces,dog,dog,0.8817204301075269
+English (British),29,produces,dog,dog,0.8555555555555555
+English (British),30,produces,dog,dog,1
+English (British),31,produces,dog,dog,1
+English (British),32,produces,dog,dog,0.9629629629629629
+English (British),33,produces,dog,dog,0.9333333333333333
+English (British),34,produces,dog,dog,0.8
+English (British),35,produces,dog,dog,0.8
+French (French),8,produces,dog,chien,0
+French (French),9,produces,dog,chien,0
+French (French),11,produces,dog,chien,0.03571428571428571
+French (French),12,produces,dog,chien,0.038461538461538464
+French (French),13,produces,dog,chien,0.023255813953488372
+French (French),14,produces,dog,chien,0.041666666666666664
+French (French),16,produces,dog,chien,0.16666666666666666
+French (French),17,produces,dog,chien,0.34615384615384615
+French (French),19,produces,dog,chien,0.9090909090909091
+French (French),20,produces,dog,chien,0.5
+French (French),21,produces,dog,chien,0.7142857142857143
+French (French),22,produces,dog,chien,0.7804878048780488
+French (French),23,produces,dog,chien,0.7464788732394366
+French (French),24,produces,dog,chien,0.8
+French (French),25,produces,dog,chien,0.9523809523809523
+French (French),26,produces,dog,chien,0.90625
+French (French),27,produces,dog,chien,0.8846153846153846
+French (French),28,produces,dog,chien,1
+French (French),29,produces,dog,chien,0.9714285714285714
+French (French),30,produces,dog,chien,1
+French (Quebecois),8,produces,dog,chien,0
+French (Quebecois),9,produces,dog,chien,0.01694915254237288
+French (Quebecois),10,produces,dog,chien,0.05454545454545454
+French (Quebecois),11,produces,dog,chien,0.017241379310344827
+French (Quebecois),12,produces,dog,chien,0.0410958904109589
+French (Quebecois),13,produces,dog,chien,0.05714285714285714
+French (Quebecois),14,produces,dog,chien,0.1320754716981132
+French (Quebecois),15,produces,dog,chien,0.20967741935483872
+French (Quebecois),16,produces,dog,chien,0.3368421052631579
+French (Quebecois),17,produces,dog,chien,0.40384615384615385
+French (Quebecois),18,produces,dog,chien,0.5185185185185185
+French (Quebecois),19,produces,dog,chien,0.5740740740740741
+French (Quebecois),20,produces,dog,chien,0.6825396825396826
+French (Quebecois),21,produces,dog,chien,0.8064516129032258
+French (Quebecois),22,produces,dog,chien,0.8070175438596491
+French (Quebecois),23,produces,dog,chien,0.8846153846153846
+French (Quebecois),24,produces,dog,chien,0.9629629629629629
+French (Quebecois),25,produces,dog,chien,0.8620689655172413
+French (Quebecois),26,produces,dog,chien,0.9122807017543859
+French (Quebecois),27,produces,dog,chien,0.9830508474576272
+French (Quebecois),28,produces,dog,chien,1
+French (Quebecois),29,produces,dog,chien,1
+French (Quebecois),30,produces,dog,chien,0.9807692307692307
+German,18,produces,dog,Hund,0.24705882352941178
+German,19,produces,dog,Hund,0.35443037974683544
+German,20,produces,dog,Hund,0.375
+German,21,produces,dog,Hund,0.4935064935064935
+German,22,produces,dog,Hund,0.6
+German,23,produces,dog,Hund,0.7789473684210526
+German,24,produces,dog,Hund,0.7378640776699029
+German,25,produces,dog,Hund,0.7894736842105263
+German,26,produces,dog,Hund,0.8804347826086957
+German,27,produces,dog,Hund,0.8426966292134831
+German,28,produces,dog,Hund,0.8817204301075269
+German,29,produces,dog,Hund,0.9325842696629213
+German,30,produces,dog,Hund,0.967741935483871
+Greek (Cypriot),18,produces,dog,σκύλος,0.3333333333333333
+Greek (Cypriot),21,produces,dog,σκύλος,0.3611111111111111
+Greek (Cypriot),24,produces,dog,σκύλος,0.8125
+Greek (Cypriot),27,produces,dog,σκύλος,0.896551724137931
+Greek (Cypriot),30,produces,dog,σκύλος,0.9117647058823529
+Hebrew,12,produces,dog,כלב,0
+Hebrew,15,produces,dog,כלב,0
+Hebrew,16,produces,dog,כלב,0.5
+Hebrew,19,produces,dog,כלב,0.7142857142857143
+Hebrew,20,produces,dog,כלב,0.5714285714285714
+Hebrew,21,produces,dog,כלב,1
+Hebrew,22,produces,dog,כלב,1
+Hebrew,23,produces,dog,כלב,0.7
+Hebrew,24,produces,dog,כלב,1
+Hebrew,25,produces,dog,כלב,0.9390243902439024
+Hebrew,26,produces,dog,כלב,0.9871794871794872
+Hebrew,27,produces,dog,כלב,0.8676470588235294
+Hebrew,28,produces,dog,כלב,0.9464285714285714
+Hebrew,29,produces,dog,כלב,0.9782608695652174
+Hebrew,30,produces,dog,כלב,0.8888888888888888
+Hebrew,31,produces,dog,כלב,0.96875
+Hebrew,32,produces,dog,כלב,1
+Hebrew,33,produces,dog,כלב,0.9047619047619048
+Hebrew,34,produces,dog,כלב,1
+Hebrew,35,produces,dog,כלב,0.875
+Italian,7,produces,dog,cane,0
+Italian,8,produces,dog,cane,0
+Italian,9,produces,dog,cane,0.02631578947368421
+Italian,10,produces,dog,cane,0.03773584905660377
+Italian,11,produces,dog,cane,0.07142857142857142
+Italian,12,produces,dog,cane,0.07246376811594203
+Italian,13,produces,dog,cane,0.10416666666666667
+Italian,14,produces,dog,cane,0.075
+Italian,15,produces,dog,cane,0.10294117647058823
+Italian,16,produces,dog,cane,0.07142857142857142
+Italian,17,produces,dog,cane,0.3541666666666667
+Italian,18,produces,dog,cane,0.28
+Italian,19,produces,dog,cane,0.3620689655172414
+Italian,20,produces,dog,cane,0.4578313253012048
+Italian,21,produces,dog,cane,0.6567164179104478
+Italian,22,produces,dog,cane,0.7012987012987013
+Italian,23,produces,dog,cane,0.7714285714285715
+Italian,24,produces,dog,cane,0.8352941176470589
+Italian,25,produces,dog,cane,0.8974358974358975
+Italian,26,produces,dog,cane,0.9512195121951219
+Italian,27,produces,dog,cane,0.9302325581395349
+Italian,28,produces,dog,cane,0.9545454545454546
+Italian,29,produces,dog,cane,0.9459459459459459
+Italian,30,produces,dog,cane,0.9552238805970149
+Italian,31,produces,dog,cane,1
+Italian,32,produces,dog,cane,1
+Italian,33,produces,dog,cane,1
+Italian,34,produces,dog,cane,1
+Italian,35,produces,dog,cane,1
+Italian,36,produces,dog,cane,1
+Kiswahili,9,produces,dog,Mbwa/Jibwa,0.1
+Kiswahili,10,produces,dog,Mbwa/Jibwa,0
+Kiswahili,11,produces,dog,Mbwa/Jibwa,0.2857142857142857
+Kiswahili,12,produces,dog,Mbwa/Jibwa,0.2857142857142857
+Kiswahili,13,produces,dog,Mbwa/Jibwa,0.6666666666666666
+Kiswahili,14,produces,dog,Mbwa/Jibwa,0.2857142857142857
+Kiswahili,22,produces,dog,Mbwa/Jibwa,0.3333333333333333
+Kiswahili,23,produces,dog,Mbwa/Jibwa,0.6
+Kiswahili,24,produces,dog,Mbwa/Jibwa,0.4666666666666667
+Kiswahili,25,produces,dog,Mbwa/Jibwa,0.3076923076923077
+Kiswahili,26,produces,dog,Mbwa/Jibwa,0.4
+Kiswahili,27,produces,dog,Mbwa/Jibwa,0.5384615384615384
+Kiswahili,28,produces,dog,Mbwa/Jibwa,0.7142857142857143
+Kiswahili,29,produces,dog,Mbwa/Jibwa,0.7777777777777778
+Korean,8,produces,dog,개/멍멍이,0
+Korean,9,produces,dog,개/멍멍이,0
+Korean,10,produces,dog,개/멍멍이,0.05
+Korean,11,produces,dog,개/멍멍이,0.1076923076923077
+Korean,12,produces,dog,개/멍멍이,0.26666666666666666
+Korean,13,produces,dog,개/멍멍이,0.24285714285714285
+Korean,14,produces,dog,개/멍멍이,0.4426229508196721
+Korean,15,produces,dog,개/멍멍이,0.5
+Korean,16,produces,dog,개/멍멍이,0.5238095238095238
+Korean,17,produces,dog,개/멍멍이,0.559322033898305
+Korean,18,produces,dog,개,0.4153846153846154
+Korean,19,produces,dog,개,0.3333333333333333
+Korean,20,produces,dog,개,0.45161290322580644
+Korean,21,produces,dog,개,0.5423728813559322
+Korean,22,produces,dog,개,0.6029411764705882
+Korean,23,produces,dog,개,0.6268656716417911
+Korean,24,produces,dog,개,0.7066666666666667
+Korean,25,produces,dog,개,0.75
+Korean,26,produces,dog,개,0.8125
+Korean,27,produces,dog,개,0.775
+Korean,28,produces,dog,개,0.8571428571428571
+Korean,29,produces,dog,개,0.863013698630137
+Korean,30,produces,dog,개,0.8923076923076924
+Korean,31,produces,dog,개,0.9411764705882353
+Korean,32,produces,dog,개,0.9047619047619048
+Korean,33,produces,dog,개,0.9315068493150684
+Korean,34,produces,dog,개,0.9285714285714286
+Korean,35,produces,dog,개,0.9193548387096774
+Korean,36,produces,dog,개,0.9565217391304348
+Mandarin,12,produces,dog,狗,0.044444444444444446
+Mandarin,13,produces,dog,狗,0.16
+Mandarin,14,produces,dog,狗,0.10416666666666667
+Mandarin,15,produces,dog,狗,0.2608695652173913
+Mandarin,16,produces,dog,狗,0.3333333333333333
+Mandarin,17,produces,dog,狗,0.5178571428571429
+Mandarin,18,produces,dog,狗,0.5702479338842975
+Mandarin,19,produces,dog,狗,0.625
+Mandarin,20,produces,dog,狗,0.768595041322314
+Mandarin,21,produces,dog,狗,0.8235294117647058
+Mandarin,22,produces,dog,狗,0.8974358974358975
+Mandarin,23,produces,dog,狗,0.9166666666666666
+Mandarin,24,produces,dog,狗,0.8583333333333333
+Mandarin,25,produces,dog,狗,0.9292035398230089
+Mandarin,26,produces,dog,狗,0.9152542372881356
+Mandarin,27,produces,dog,狗,0.9649122807017544
+Mandarin,28,produces,dog,狗,0.956140350877193
+Mandarin,29,produces,dog,狗,0.9747899159663865
+Mandarin,30,produces,dog,狗,0.9818181818181818
+Norwegian,8,produces,dog,hund,0.015748031496062992
+Norwegian,9,produces,dog,hund,0.011049723756906077
+Norwegian,10,produces,dog,hund,0.012987012987012988
+Norwegian,11,produces,dog,hund,0.02912621359223301
+Norwegian,12,produces,dog,hund,0.05668016194331984
+Norwegian,13,produces,dog,hund,0.08846153846153847
+Norwegian,14,produces,dog,hund,0.0703125
+Norwegian,15,produces,dog,hund,0.2153846153846154
+Norwegian,16,produces,dog,hund,0.1971153846153846
+Norwegian,17,produces,dog,hund,0.29764453961456105
+Norwegian,18,produces,dog,hund,0.366
+Norwegian,19,produces,dog,hund,0.45045045045045046
+Norwegian,20,produces,dog,hund,0.5869947275922671
+Norwegian,21,produces,dog,hund,0.5926573426573427
+Norwegian,22,produces,dog,hund,0.6724436741767764
+Norwegian,23,produces,dog,hund,0.7315315315315315
+Norwegian,24,produces,dog,hund,0.7693602693602694
+Norwegian,25,produces,dog,hund,0.8126934984520123
+Norwegian,26,produces,dog,hund,0.8616666666666667
+Norwegian,27,produces,dog,hund,0.8863198458574181
+Norwegian,28,produces,dog,hund,0.904397705544933
+Norwegian,29,produces,dog,hund,0.9027777777777778
+Norwegian,30,produces,dog,hund,0.9385245901639344
+Norwegian,31,produces,dog,hund,0.9357601713062098
+Norwegian,32,produces,dog,hund,0.9586206896551724
+Norwegian,33,produces,dog,hund,0.9418604651162791
+Norwegian,34,produces,dog,hund,0.9824120603015075
+Norwegian,35,produces,dog,hund,0.9855072463768116
+Norwegian,36,produces,dog,hund,0.9605263157894737
+Russian,8,produces,dog,собака,0
+Russian,9,produces,dog,собака,0.047619047619047616
+Russian,10,produces,dog,собака,0.015873015873015872
+Russian,11,produces,dog,собака,0.04225352112676056
+Russian,12,produces,dog,собака,0.039473684210526314
+Russian,13,produces,dog,собака,0.0958904109589041
+Russian,14,produces,dog,собака,0.12658227848101267
+Russian,15,produces,dog,собака,0.07407407407407407
+Russian,16,produces,dog,собака,0.19753086419753085
+Russian,17,produces,dog,собака,0.25
+Russian,18,produces,dog,собака,0.21904761904761905
+Russian,19,produces,dog,собака,0.21951219512195122
+Russian,20,produces,dog,собака,0.35555555555555557
+Russian,21,produces,dog,собака,0.4186046511627907
+Russian,22,produces,dog,собака,0.5294117647058824
+Russian,23,produces,dog,собака,0.5892857142857143
+Russian,24,produces,dog,собака,0.639344262295082
+Russian,25,produces,dog,собака,0.6060606060606061
+Russian,26,produces,dog,собака,0.7115384615384616
+Russian,27,produces,dog,собака,0.7
+Russian,28,produces,dog,собака,0.7166666666666667
+Russian,29,produces,dog,собака,0.7931034482758621
+Russian,30,produces,dog,собака,0.7532467532467533
+Russian,31,produces,dog,собака,0.8032786885245902
+Russian,32,produces,dog,собака,0.8363636363636363
+Russian,33,produces,dog,собака,0.8363636363636363
+Russian,34,produces,dog,собака,0.8620689655172413
+Russian,35,produces,dog,собака,0.851063829787234
+Russian,36,produces,dog,собака,0.8775510204081632
+Slovak,8,produces,dog,pes/havo,0.0410958904109589
+Slovak,9,produces,dog,pes/havo,0.1864406779661017
+Slovak,10,produces,dog,pes/havo,0.1643835616438356
+Slovak,11,produces,dog,pes/havo,0.3387096774193548
+Slovak,12,produces,dog,pes/havo,0.4936708860759494
+Slovak,13,produces,dog,pes/havo,0.6351351351351351
+Slovak,14,produces,dog,pes/havo,0.6410256410256411
+Slovak,15,produces,dog,pes/havo,0.7701149425287356
+Slovak,16,produces,dog,pes/havo,0.8382352941176471
+Slovak,17,produces,dog,pes / havo,0.7571428571428571
+Slovak,18,produces,dog,pes / havo,0.9692307692307692
+Slovak,19,produces,dog,pes / havo,0.875
+Slovak,20,produces,dog,pes / havo,0.9516129032258065
+Slovak,21,produces,dog,pes / havo,0.9012345679012346
+Slovak,22,produces,dog,pes / havo,0.8867924528301887
+Slovak,23,produces,dog,pes / havo,0.8983050847457628
+Slovak,24,produces,dog,pes / havo,0.9830508474576272
+Slovak,25,produces,dog,pes / havo,0.927536231884058
+Slovak,26,produces,dog,pes / havo,0.9230769230769231
+Slovak,27,produces,dog,pes / havo,0.9516129032258065
+Slovak,28,produces,dog,pes / havo,0.9302325581395349
+Slovak,29,produces,dog,pes / havo,0.9466666666666667
+Slovak,30,produces,dog,pes / havo,0.9387755102040817
+Slovak,31,produces,dog,pes / havo,0.9655172413793104
+Slovak,32,produces,dog,pes / havo,1
+Slovak,33,produces,dog,pes / havo,1
+Slovak,34,produces,dog,pes / havo,0.9259259259259259
+Slovak,35,produces,dog,pes / havo,0.8888888888888888
+Slovak,36,produces,dog,pes / havo,1
+Spanish (Mexican),8,produces,dog,perro,0.05
+Spanish (Mexican),9,produces,dog,perro,0.015625
+Spanish (Mexican),10,produces,dog,perro,0.09859154929577464
+Spanish (Mexican),11,produces,dog,perro,0.1044776119402985
+Spanish (Mexican),12,produces,dog,perro,0.16853932584269662
+Spanish (Mexican),13,produces,dog,perro,0.24096385542168675
+Spanish (Mexican),14,produces,dog,perro,0.2631578947368421
+Spanish (Mexican),15,produces,dog,perro,0.36065573770491804
+Spanish (Mexican),16,produces,dog,perro,0.45098039215686275
+Spanish (Mexican),17,produces,dog,perro,0.5447154471544715
+Spanish (Mexican),18,produces,dog,perro,0.4768211920529801
+Spanish (Mexican),19,produces,dog,perro,0.6951219512195121
+Spanish (Mexican),20,produces,dog,perro,0.696969696969697
+Spanish (Mexican),21,produces,dog,perro,0.7176470588235294
+Spanish (Mexican),22,produces,dog,perro,0.7241379310344828
+Spanish (Mexican),23,produces,dog,perro,0.6931818181818182
+Spanish (Mexican),24,produces,dog,perro,0.8695652173913043
+Spanish (Mexican),25,produces,dog,perro,0.8372093023255814
+Spanish (Mexican),26,produces,dog,perro,0.8108108108108109
+Spanish (Mexican),27,produces,dog,perro,0.875
+Spanish (Mexican),28,produces,dog,perro,0.8780487804878049
+Spanish (Mexican),29,produces,dog,perro,0.8666666666666667
+Spanish (Mexican),30,produces,dog,perro,0.8307692307692308
+Swedish,8,produces,dog,hund,0
+Swedish,10,produces,dog,hund,0
+Swedish,11,produces,dog,hund,0
+Swedish,12,produces,dog,hund,0.08860759493670886
+Swedish,13,produces,dog,hund,0.14285714285714285
+Swedish,14,produces,dog,hund,0.20967741935483872
+Swedish,15,produces,dog,hund,0.38461538461538464
+Swedish,16,produces,dog,hund,0.25157232704402516
+Swedish,19,produces,dog,hund,0.3223684210526316
+Swedish,22,produces,dog,hund,0.6188925081433225
+Swedish,25,produces,dog,hund,0.7482517482517482
+Swedish,28,produces,dog,hund,0.8633093525179856
+Turkish,8,produces,dog,Köpek,0.007142857142857143
+Turkish,9,produces,dog,Köpek,0
+Turkish,10,produces,dog,Köpek,0.007692307692307693
+Turkish,11,produces,dog,Köpek,0.008
+Turkish,12,produces,dog,Köpek,0.03333333333333333
+Turkish,13,produces,dog,Köpek,0.08196721311475409
+Turkish,14,produces,dog,Köpek,0.1292517006802721
+Turkish,15,produces,dog,Köpek,0.11450381679389313
+Turkish,16,produces,dog,Köpek,0.1793478260869565
+Turkish,17,produces,dog,Köpek,0.29906542056074764
+Turkish,18,produces,dog,Köpek,0.328125
+Turkish,19,produces,dog,Köpek,0.4132231404958678
+Turkish,20,produces,dog,Köpek,0.46218487394957986
+Turkish,21,produces,dog,Köpek,0.5483870967741935
+Turkish,22,produces,dog,Köpek,0.5158730158730159
+Turkish,23,produces,dog,Köpek,0.6335877862595419
+Turkish,24,produces,dog,Köpek,0.7075471698113207
+Turkish,25,produces,dog,Köpek,0.6991869918699187
+Turkish,26,produces,dog,Köpek,0.7642276422764228
+Turkish,27,produces,dog,Köpek,0.8333333333333334
+Turkish,28,produces,dog,Köpek,0.8571428571428571
+Turkish,29,produces,dog,Köpek,0.8823529411764706
+Turkish,30,produces,dog,Köpek,0.9326923076923077
+Turkish,31,produces,dog,Köpek,0.8712871287128713
+Turkish,32,produces,dog,Köpek,0.8939393939393939
+Turkish,33,produces,dog,Köpek,0.9385964912280702
+Turkish,34,produces,dog,Köpek,0.8785046728971962
+Turkish,35,produces,dog,Köpek,0.9312977099236641
+Turkish,36,produces,dog,Köpek,0.974025974025974

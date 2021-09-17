@@ -1,0 +1,29 @@
+---
+title: "Milestone 1"
+subtitle: "Stat041 Final Project"
+author: "Dohyun Lee, Satyaa Suresh"
+output: 
+  pdf_document: 
+    highlight: pygments
+fontsize: 11pt
+geometry: margin=1in
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# Topic + Dataset
+
+Source Link: https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+
+This dataset observes the educational attainment of US adults ages 25 and older between the years 1970-2018
+at the county-level
+
+```{r load-data}
+data <- read.csv(
+  "/Users/Dohyun/Desktop/school stuff/year3/stat41/final project/education.csv")
+```
+
+
